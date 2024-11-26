@@ -14,7 +14,7 @@ This repository provides you with a detailed guide on how to training and build 
 
 - **Pretrained model** provided in ./model folder in this repo 
 
-- **Download yolov5 (old version) from this link:** [yolov5 - google drive](https://drive.google.com/file/d/1g1u7M4NmWDsMGOppHocgBKjbwtDA-uIu/view?usp=sharing)
+- **Download yolov5 (old version) from this link:** [yolov5 - google drive](https://drive.google.com/drive/folders/16Urwqj_x9Y_3KWLcc1cKMDOdYdhaQhxx?usp=sharing)
 
 - Copy yolov5 folder to project folder
 
@@ -39,10 +39,14 @@ This repository provides you with a detailed guide on how to training and build 
 
 This repo uses 2 sets of data for 2 stage of license plate recognition problem:
 
-- [License Plate Detection Dataset](https://drive.google.com/file/d/1xchPXf7a1r466ngow_W_9bittRqQEf_T/view?usp=sharing)
-- [Character Detection Dataset](https://drive.google.com/file/d/1bPux9J0e1mz-_Jssx4XX1-wPGamaS8mI/view?usp=sharing)
+- [License Plate Detection Dataset](https://drive.google.com/drive/folders/1vlxqJHJzv44X6ECtxH2-FFNbcBc9DIth?usp=sharing)
+- [Character Detection Dataset](https://drive.google.com/drive/folders/1wtL4to1LKBO1fBVJEWkYHSun5yh9HRho?usp=sharing)
+- [Models](https://drive.google.com/drive/folders/1qB8QYr-b-PWsXMO0K3mef66P_kXfhfmM?usp=sharing)
+- 
 
 Thanks [Mì Ai](https://www.miai.vn/thu-vien-mi-ai/) and [winter2897](https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano/blob/main/doc/dataset.md) for sharing a part in this dataset.
+
+(new) Thanks [trungdinh22](https://github.com/trungdinh22) for sharing this project.
 
 ## Training
 
