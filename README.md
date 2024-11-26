@@ -6,7 +6,7 @@ This repository provides you with a detailed guide on how to training and build 
 
 ```bash
   git clone https://github.com/Baoishere/license-plate-recognition.git
-  cd License-Plate-Recognition
+  cd license-plate-recognition
 
   # install dependencies using pip 
   pip install -r ./requirement.txt
