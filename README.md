@@ -6,7 +6,7 @@ This repository provides you with a detailed guide on how to training and build 
 
 ```bash
   git clone https://github.com/Baoishere/license-plate-recognition.git
-  cd license-plate-recognition
+  cd License-Plate-Recognition
 
   # install dependencies using pip 
   pip install -r ./requirement.txt
@@ -23,6 +23,12 @@ This repository provides you with a detailed guide on how to training and build 
 ```bash
   #(new) run integrated system of functions
   python main.py
+
+  # run inference on webcam (15-20fps if there is 1 license plate in scene)
+  python webcam.py 
+
+  # run inference on image
+  python lp_image.py -i test_image/3.jpg
 
   # run LP_recognition.ipynb if you want to know how model work in each step
 ```
